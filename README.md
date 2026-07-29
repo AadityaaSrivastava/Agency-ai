@@ -4,7 +4,7 @@ A responsive AI agency website built using React and Vite.
 
 ## 🚀 Live Demo
 
-👉 lovely-gnome-20e669.netlify.app
+👉 https://lovely-gnome-20e669.netlify.app/
 
 ## 🛠️ Tech Stack
 
